@@ -178,3 +178,16 @@ li{
         padding-left: 0;
     }
 }
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+}
+.tech-item {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.tech-item img {
+    margin-right: 10px;
+}
