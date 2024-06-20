@@ -1,8 +1,8 @@
-# Dennis Ivy Digital Resume
+# Umer Akmal Digital Resume
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
 
-View live demo here using github pages: [Live Demo](https://divanov11.github.io/Digital-Resume/)
+View live demo here using github pages: [Live Demo](https://mumer.xyz/)
 
 ## Preview
 
@@ -10,7 +10,7 @@ View live demo here using github pages: [Live Demo](https://divanov11.github.io/
 
 ## Deploy your own digital resume
 
-1. clone repo `git clone https://github.com/divanov11/Digital-Resume` & update content to represent your information
+1. clone repo `git clone https://github.com/umer104/Digital-Resume` & update content to represent your information
 2. Create a new github repo
 3. Commit and push to github.
 
